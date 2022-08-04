@@ -1,3 +1,4 @@
-h1 {
-  color: blue;
+.Header {
+  height: 7rem;
+  border: 1px black solid;
 }
