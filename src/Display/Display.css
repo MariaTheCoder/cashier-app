@@ -1,0 +1,4 @@
+.Display {
+  width: 100%;
+  min-height: calc(100% - 7rem);
+}
